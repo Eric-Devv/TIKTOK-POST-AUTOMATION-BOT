@@ -14,11 +14,11 @@ except ImportError:
     print("TikTokUploader library import failed. Verify installation or library structure.")
 
 # Setting OpenAI API key
-openai.api_key = "key???"
+openai.api_key = "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"
 
 # Setting TikTok credentials
-TIKTOK_USERNAME = "username????"
-TIKTOK_PASSWORD = "password???"
+TIKTOK_USERNAME = "erimtech.solution"
+TIKTOK_PASSWORD = "@Mwongela254"
 
 # Setting directory for temporary files
 TEMP_DIR = 'temp_files'
